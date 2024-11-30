@@ -39,4 +39,4 @@ async def check(ctx):
     else:
         await ctx.send("Olvidaste subir una imagen :(")
 
-bot.run("MTI0MjYxNzUzOTY2MjQ0NjY3NA.GF3tZZ.DnbqN4vr2hCpyK2chDckM7m1HLp6XqWHTByJ1s")
+bot.run("TU TOKEN")
