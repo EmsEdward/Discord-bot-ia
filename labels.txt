@@ -1,0 +1,3 @@
+0 Naturaleza
+1 comida
+2 Gaming
